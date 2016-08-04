@@ -1,0 +1,31 @@
+_repo: A-Sappho-of-Green-Springs_2867
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Harte, Bret
+    alias: Harte, Francis Bret
+    birthdate: 1836
+    deathdate: 1902
+    gutenberg_agent_id: '593'
+    url: http://www.gutenberg.org/2009/agents/593
+    wikipedia: http://en.wikipedia.org/wiki/Bret_Harte
+description: A Sappho of Green Springs. -- The chatelaine of Burnt Ridge. -- Through
+  the Santa Clara wheat. -- A Mæcenas of the Pacific slope.
+gutenberg_issued: '2006-05-30'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '2867'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'California -- Social life and customs -- Fiction'
+- !lcsh 'American fiction -- 19th century'
+- !lcc 'PS'
+- !lcsh 'Western stories'
+- GITenberg
+tableOfContents: A Sappho of Green Springs -- The châtelaine of Burnt Ridge -- Through
+  the Santa Clara wheat -- A Maecenas of the Pacific Slope.
+title: A Sappho of Green Springs
+url: http://www.gutenberg.org/ebooks/2867
