@@ -1,5 +1,8 @@
 _repo: A-Sappho-of-Green-Springs_2867
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Harte, Bret
@@ -11,6 +14,8 @@ creator:
     wikipedia: http://en.wikipedia.org/wiki/Bret_Harte
 description: A Sappho of Green Springs. -- The chatelaine of Burnt Ridge. -- Through
   the Santa Clara wheat. -- A Mæcenas of the Pacific slope.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/2867#A-Sappho-of-Green-Springs
 gutenberg_issued: '2006-05-30'
 gutenberg_type: Text
 identifiers:
